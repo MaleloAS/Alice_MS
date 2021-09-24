@@ -1,0 +1,11 @@
+gene	chrom	pos	locus_id	ref	alt	qual	type	ref_depth	alt_depth	alt_freq	sum_alt_freq	symbol	feature	biotype	consequence	impact	amino_acids	codons	library_id	description
+PBANKA_0609500	PbANKA_06_v3	434992	603	T	TA	440.641	INDEL	3	24	0.631579	0.921053	.	PBANKA_0609500.1	mRNA	frameshift_variant	HIGH	I/IX	ata/atAa	PbANKA_820	kinesin-X3,+putative
+PBANKA_0615700	PbANKA_06_v3	662691	3301	G	T	11015.5	SNP	1	381	0.997382	0.997382	.	PBANKA_0615700.1	mRNA	stop_gained	HIGH	S/*	tCa/tAa	K173v1_gDNA_NoPCR	dynein+heavy+chain,+putative
+PBANKA_0704400	PbANKA_07_v3	200320	3709	G	T	7355.9	SNP	1	293	0.996599	0.996599	.	PBANKA_0704400.1	mRNA	start_lost	HIGH	M/I	atG/atT	K173v1_gDNA_NoPCR	alpha/beta+hydrolase,+putative
+PBANKA_0827100	PbANKA_08_v3	1050496	4711	C	CAA	5706.5	INDEL	4	211	0.981395	0.981395	.	PBANKA_0827100.1	mRNA	frameshift_variant	HIGH	Q/QX	caa/cAAaa	K173v1_gDNA_NoPCR	protein+kinase,+putative
+PBANKA_1020500	PbANKA_10_v3	854719	7134	A	AT	3926.79	INDEL	8	164	0.953488	0.953488	.	PBANKA_1020500.1	mRNA	frameshift_variant	HIGH	I/NX	ata/aAta	K173v1_gDNA_NoPCR	14-3-3+protein,+putative
+PBANKA_1101300	PbANKA_11_v3	84103	1571	AC	A	402.704	INDEL	1	40	0.97561	0.97561	SBP1	PBANKA_1101300.1	mRNA	frameshift_variant&splice_region_variant	HIGH	N/X	aaC/aa	PbANKA_820	skeleton-binding+protein+1
+PBANKA_1407700	PbANKA_14_v3	364007	11889	T	TA	6615.8	INDEL	5	245	0.98	0.98	PPM6	PBANKA_1407700.1	mRNA	frameshift_variant	HIGH	L/LX	tta/ttAa	K173v1_gDNA_NoPCR	protein+phosphatase+PPM6
+PBANKA_1437500	PbANKA_14_v3	1419051	2884	T	A	4506.64	SNP	1	149	0.993333	0.993333	AP2-G	PBANKA_1437500.1	mRNA	stop_gained	HIGH	Y/*	taT/taA	GNP_PbANKA_820	AP2+domain+transcription+factor+AP2-G
+PBANKA_1437500	PbANKA_14_v3	1420286	12183	CAT	C	7225.36	INDEL	31	301	0.906627	0.906627	AP2-G	PBANKA_1437500.1	mRNA	frameshift_variant	HIGH	TY/TX	acATat/acat	K173v1_gDNA_NoPCR	AP2+domain+transcription+factor+AP2-G
+PBANKA_1446500	PbANKA_14_v3	1793510	12346	G	T	12239.1	SNP	1	405	0.997537	0.997537	.	PBANKA_1446500.1	mRNA	stop_gained	HIGH	E/*	Gaa/Taa	K173v1_gDNA_NoPCR	asparagine-rich+protein,+putative

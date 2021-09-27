@@ -50,7 +50,7 @@ contains BAM files, and their indexed bai files of the WGS and RNA-seq datasets 
   contains a tsv file showing the information of normalisation of the reads.
 
 **Pberghei/Pknowlesi-tables**
-  contains tsv files generated at the end of the analysis, to which several thresholds were applied in order to obtain a list of variants.
+  contains tables generated at the end of the analysis, to which several thresholds were applied in order to obtain a list of variants.
 
 **scripts**
   contains written scripts used for the study
